@@ -24,7 +24,21 @@ const publish_info = [
   {
     category: "文化系",
     clubs: [
-    
+      { clubName: 'JAZZ研究会',
+        id: 'jazz',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+              label: 'Jazz研究会Instagram',
+              url: 'https://www.instagram.com/jazz_ken_tus/'
+            },
+            {
+              label: 'Jazz研究会SOLA',
+              url: 'https://sola.sus.ac.jp/tag/index.php?tc=1&tag=JAZZ研究会'
+            },
+        ]
+      },
     ]
   },
   {
