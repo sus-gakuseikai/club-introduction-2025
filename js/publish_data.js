@@ -47,14 +47,12 @@ const publish_info = [
             },
         ]
       },
-      { clubName: 'SuwaGeeks',
-        id: 'suwageeks',//intro_pngの中の名前。拡張端子はpngのみ
+     { clubName: 'SUWAGEEKS',
+        id: 'suwageeks',//intro_pngの中のファイル名。拡張端子はpngのみ
         isMovie: false,
         movieUrl: '',
         links: [
             {
-              label:'',
-              url:''
             },
         ]
       },
