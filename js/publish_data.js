@@ -18,14 +18,12 @@ const publish_info = [
   {
     category: '運動系',
     clubs: [
-      { clubName: 'WORKOUT部',
-        id: 'workout',//intro_pngの中の名前。拡張端子はpngのみ
+      { clubName: 'WORKOUT',
+        id: 'workout',//intro_pngの中のファイル名。拡張端子はpngのみ
         isMovie: false,
         movieUrl: '',
         links: [
             {
-              label:'',
-              url:''
             },
         ]
       },
