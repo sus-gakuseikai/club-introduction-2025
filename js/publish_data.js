@@ -11,6 +11,10 @@ const publish_info = [
               label: 'X(旧Twitter)',
               url: 'https://x.com/suwa_gakuseikai?s=20'
             },
+          {
+              label: 'Instagram',
+              url: 'https://www.instagram.com/suwagakuseikai/'
+            },
         ]
       },
     ]
