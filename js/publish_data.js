@@ -18,7 +18,15 @@ const publish_info = [
   {
     category: '運動系',
     clubs: [
-      
+      { clubName: 'WORKOUT部',
+        id: 'workout',//intro_pngの中の名前。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+            },
+        ]
+      },
     ]
   },
   {
@@ -36,6 +44,15 @@ const publish_info = [
             {
               label: 'Jazz研究会SOLA',
               url: 'https://sola.sus.ac.jp/tag/index.php?tc=1&tag=JAZZ研究会'
+            },
+        ]
+      },
+      { clubName: 'SuwaGeeks',
+        id: 'suwageeks',//intro_pngの中の名前。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
             },
         ]
       },
