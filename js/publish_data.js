@@ -24,8 +24,8 @@ const publish_info = [
         movieUrl: '',
         links: [
             {
-              label:,
-              url:
+              label:'',
+              url:''
             },
         ]
       },
@@ -55,8 +55,8 @@ const publish_info = [
         movieUrl: '',
         links: [
             {
-              label:,
-              url:
+              label:'',
+              url:''
             },
         ]
       },
