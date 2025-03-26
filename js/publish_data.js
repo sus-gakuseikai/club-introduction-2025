@@ -31,6 +31,39 @@ const publish_info = [
             },
         ]
       },
+      { clubName: '軟式野球部',
+        id: 'softball_baseball',//intro_pngの中のファイル名。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+              label: '軟式野球部X（旧Twitter）'
+              url: 'https://twitter.com/suwarikaBBC'
+            },
+            {
+              label: '軟式野球部Instagram'
+              url: 'https://www.instagram.com/sus_baseball/'
+            },
+        ]
+      },
+       { clubName: 'フットサル',
+        id: 'futsal',//intro_pngの中のファイル名。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+            },
+        ]
+      },
+       { clubName: 'バドミントン部',
+        id: 'badminton',//intro_pngの中のファイル名。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+            },
+        ]
+      },
     ]
   },
   {
@@ -53,6 +86,15 @@ const publish_info = [
       },
      { clubName: 'SUWAGEEKS',
         id: 'suwageeks',//intro_pngの中のファイル名。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+            },
+        ]
+      },
+       { clubName: 'AIサークル',
+        id: 'AI',//intro_pngの中のファイル名。拡張端子はpngのみ
         isMovie: false,
         movieUrl: '',
         links: [
