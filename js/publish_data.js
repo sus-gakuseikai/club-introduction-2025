@@ -37,11 +37,11 @@ const publish_info = [
         movieUrl: '',
         links: [
             {
-              label: '軟式野球部X（旧Twitter）'
+              label: '軟式野球部X（旧Twitter）',
               url: 'https://twitter.com/suwarikaBBC'
             },
             {
-              label: '軟式野球部Instagram'
+              label: '軟式野球部Instagram',
               url: 'https://www.instagram.com/sus_baseball/'
             },
         ]
