@@ -65,17 +65,6 @@ const publish_info = [
         ]
       },
       { clubName: 'クライミング部',
-        id: 'softball_baseball',//intro_pngの中のファイル名。拡張端子はpngのみ
-        isMovie: false,
-        movieUrl: '',
-        links: [
-            {
-              label: 'クライミング部X（旧Twitter）',
-              url: 'https://x.com/SuwarikaClimb'
-            },
-        ]
-      },
-      { clubName: 'クライミング部',
         id: 'climbing',//intro_pngの中のファイル名。拡張端子はpngのみ
         isMovie: false,
         movieUrl: '',
@@ -202,8 +191,8 @@ const publish_info = [
             },
         ]
       },
-       { clubName: 'e-Sporrts部',
-        id: 'e-Sporrts',//intro_pngの中のファイル名。拡張端子はpngのみ
+       { clubName: 'e-Sports部',
+        id: 'e-Sports',//intro_pngの中のファイル名。拡張端子はpngのみ
         isMovie: true,
         movieUrl: '',
         links: [
@@ -233,7 +222,7 @@ const publish_info = [
             },
             {
               label: '軽音部 YouTube',
-              url: 'https://www.youtube.com/channel/UCpUM8-AZ0zxWZbyvgnzLMdg',
+              url: 'https://www.youtube.com/channel/UCpUM8-AZ0zxWZbyvgnzLMdg'
             },
             {
               label: '軽音部 Instagram',
