@@ -234,11 +234,11 @@ const publish_info = [
             {
               label: '軽音部 YouTube',
               url: 'https://www.youtube.com/channel/UCpUM8-AZ0zxWZbyvgnzLMdg',
-            }
+            },
             {
               label: '軽音部 Instagram',
               url: 'https://www.instagram.com/sus_schoolband/'
-            }
+            },
         ]
       },
     ]
