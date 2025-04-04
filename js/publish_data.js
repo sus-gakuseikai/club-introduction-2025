@@ -209,7 +209,7 @@ const publish_info = [
        { clubName: 'e-Sports部',
         id: 'e-Sports',//intro_pngの中のファイル名。拡張端子はpngのみ
         isMovie: true,
-        movieUrl: 'e-sport',
+        movieUrl: 'https://www.youtube.com/watch?v=-1mw_ajWyKA',
         links: [
             {
             },
