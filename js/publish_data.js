@@ -207,10 +207,13 @@ const publish_info = [
         ]
       },
        { clubName: 'e-Sports部',
-        id: 'esport',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'esport',
         isMovie: true,
         movieUrl: 'https://www.youtube.com/embed/-1mw_ajWyKA',
-        links: []
+        links: [
+          {
+          },
+        ]
       },
        { clubName: '写真部',
         id: 'photograph',//intro_pngの中のファイル名。拡張端子はpngのみ
