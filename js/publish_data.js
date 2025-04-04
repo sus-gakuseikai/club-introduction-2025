@@ -23,7 +23,7 @@ const publish_info = [
     category: '運動系',
     clubs: [
       { clubName: 'WORKOUT',
-        id: 'workout',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'workout',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -32,7 +32,7 @@ const publish_info = [
         ]
       },
       { clubName: '軟式野球部',
-        id: 'softball_baseball',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'softball_baseball',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -47,7 +47,7 @@ const publish_info = [
         ]
       },
        { clubName: 'フットサル',
-        id: 'futsal',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'futsal',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -56,7 +56,7 @@ const publish_info = [
         ]
       },
        { clubName: 'バドミントン部',
-        id: 'badminton',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'badminton',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -65,7 +65,7 @@ const publish_info = [
         ]
       },
       { clubName: 'クライミング部',
-        id: 'climbing',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'climbing',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -76,7 +76,7 @@ const publish_info = [
         ]
       },
        { clubName: '弓道部',
-        id: 'kyudo',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'kyudo',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -85,7 +85,7 @@ const publish_info = [
         ]
       },
       { clubName: 'サバイバルゲーム部',
-        id: 'survival',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'survival',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -96,7 +96,7 @@ const publish_info = [
         ]
       },
       { clubName: '剣道部',
-        id: 'kendo',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'kendo',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -107,7 +107,7 @@ const publish_info = [
         ]
       },
        { clubName: 'ゴルフ部',
-        id: 'golf',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'golf',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -118,7 +118,7 @@ const publish_info = [
         ]
       },
        { clubName: 'サッカー部',
-        id: 'soccer',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'soccer',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -127,7 +127,7 @@ const publish_info = [
         ]
       },
        { clubName: 'テニス部',
-        id: 'tennis',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'tennis',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -136,7 +136,7 @@ const publish_info = [
         ]
       },
        { clubName: 'ソフトテニス部',
-        id: 'soft_tennis',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'soft_tennis',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -171,7 +171,7 @@ const publish_info = [
         ]
       },
      { clubName: 'SUWAGEEKS',
-        id: 'suwageeks',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'suwageeks',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -180,7 +180,7 @@ const publish_info = [
         ]
       },
        { clubName: 'AIサークル',
-        id: 'AI',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'AI',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -189,7 +189,7 @@ const publish_info = [
         ]
       },
     　{ clubName: 'ボードゲーム部',
-        id: 'board_game',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'board_game',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -198,7 +198,7 @@ const publish_info = [
         ]
       },
        { clubName: 'ロボット研究部',
-        id: 'robot',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'robot',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -227,7 +227,7 @@ const publish_info = [
         ]
       },
        { clubName: '軽音学部',
-        id: 'K-ON',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'K-ON',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -246,7 +246,7 @@ const publish_info = [
         ]
       },
        { clubName: 'TRPG部',
-        id: 'TRPG',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'TRPG',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -257,7 +257,7 @@ const publish_info = [
         ]
       },
       { clubName: 'ってみた部',
-        id: 'ttemita',//intro_pngの中のファイル名。拡張端子はpngのみ
+        id: 'ttemita',
         isMovie: false,
         movieUrl: '',
         links: [
