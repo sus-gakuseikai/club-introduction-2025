@@ -135,6 +135,21 @@ const publish_info = [
             },
         ]
       },
+       { clubName: 'ソフトテニス部',
+        id: 'soft_tennis',//intro_pngの中のファイル名。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+              label: 'ソフトテニス部Instagram',
+              url: 'https://www.instagram.com/sus_softtennnnnnis/profilecard/?igsh=cmpiYmR2eWNpcWx1'
+            },
+            {
+              label: 'ソフトテニス部X(旧Twitter)',
+              url: 'https://x.com/suwarikasoftten?s=11&t=G4qyaVHU1qU0DQaKFOKpWg'
+            },
+        ]
+      },
     ]
   },
   {
@@ -227,6 +242,36 @@ const publish_info = [
             {
               label: '軽音部 Instagram',
               url: 'https://www.instagram.com/sus_schoolband/'
+            },
+        ]
+      },
+       { clubName: 'TRPG部',
+        id: 'TRPG',//intro_pngの中のファイル名。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+              label: '連絡先（部長：渡辺）',
+              url: 't124171@ed.sus.ac.jp'
+            },
+        ]
+      },
+      { clubName: 'ってみた部',
+        id: 'ttemita',//intro_pngの中のファイル名。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+              label: 'ってみた部 X',
+              url: 'http://x.com/ttemitabu_tus'
+            },
+            {
+              label: 'ってみた部 Youtube',
+              url: 'https://www.youtube.com/channel/UCwiwpf8uEk4lI3LpV3KL7QQ'
+            },
+            {
+              label: 'ってみた部 Instagram',
+              url: 'https://www.instagram.com/ttemitabu?igsh=MTBkOW5vc3ljM29wYw%3D%3D&utm_source=qr'
             },
         ]
       },
