@@ -207,9 +207,9 @@ const publish_info = [
         ]
       },
        { clubName: 'e-Sports部',
-        id: 'esport',
+        id: 'movie',
         isMovie: true,
-        movieUrl: 'https://www.youtube.com/embed/-1mw_ajWyKA',
+        movieUrl: 'https://www.youtube.com/embed/-1mw_ajWyKA',//埋め込みurl
         links: [
           {
           },
