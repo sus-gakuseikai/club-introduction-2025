@@ -275,6 +275,26 @@ const publish_info = [
             },
         ]
       },
+      { clubName: 'Poly Talk部',
+        id: 'poly_talk',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+              label: 'Poly Talk部お問い合わせform',
+              url: 'https://docs.google.com/forms/d/e/1FAIpQLScSH6CpjA50RyCo3boCq267bebIl6O8HaVp7zwNKtlN8z31Xg/viewform?usp=dialog'
+            },
+        ]
+      },
+      { clubName: 'コミック研究部',
+        id: 'comic',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+            },
+        ]
+      },
     ]
   },
   {
