@@ -8,7 +8,8 @@ const publish_info = [
         movieUrl: '',
         links: [
             {
-              label:'※参加団体は変更することがあります。'
+              label: '※参加団体は変更することがあります。',
+              url: ''
             },
         ]
       },
