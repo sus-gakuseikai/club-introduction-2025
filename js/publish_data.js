@@ -7,7 +7,9 @@ const publish_info = [
         isMovie: false,
         movieUrl: '',
         links: [
-            {},
+            {
+              label:'※参加団体は変更することがあります。'
+            },
         ]
       },
     ]
