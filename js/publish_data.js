@@ -1,5 +1,19 @@
 const publish_info = [
   {
+    category: 'お知らせ',
+    clubs: [
+      { clubName: '部活動説明会',
+        id: 'explanation',//intro_pngの中の名前。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {},
+        ]
+      },
+    ]
+  },
+  
+  {
     category: '総務系',
     clubs: [
       { clubName: '学生会',
