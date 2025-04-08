@@ -271,6 +271,10 @@ const publish_info = [
               label: '連絡先（部長：渡辺）',
               url: 't124171@ed.sus.ac.jp'
             },
+            {
+              label: 'discord',
+              url: 'https://discord.gg/Xe4dg52Dmc'
+            },
         ]
       },
       { clubName: 'ってみた部',
