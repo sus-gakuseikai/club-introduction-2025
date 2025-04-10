@@ -34,6 +34,24 @@ const publish_info = [
             },
         ]
       },
+      { clubName: '新風祭実行委員',
+        id: 'shinpusai',//intro_pngの中の名前。拡張端子はpngのみ
+        isMovie: false,
+        movieUrl: '',
+        links: [
+            {
+              label: '新風祭実行委員会 X',
+              url: 'https://x.com/shinpusai?s=21&t=YkpT3R0_ciyGPLkF71Nqig'
+            },
+          {
+              label: '新風祭実行委員会 Instagram',
+              url: 'https://www.instagram.com/suwarika_festival?igsh=cTZ0bm1icjRzNnd4'
+            },{
+              label: '新風祭実行委員会 ホームページ',
+              url: 'https://recsuwa.net/'
+            },
+        ]
+      },
     ]
   },
   {
